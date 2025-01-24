@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26a28a6feec1484aa1c04daa3a58b39d, type: 3}
+  m_Name: Graveyard
+  m_EditorClassIdentifier: 
+  LevelKey: Main
+  EnemySpawners:
+  - Id: Main_c56e12cf-eebe-4a23-bf57-802bff92d683
+    MonsterTypeId: 10
+    Position: {x: -15.67, y: 0.56, z: -7.83}
+  - Id: Main_1c421eea-d2a3-4dc2-8c1a-44c24b904592
+    MonsterTypeId: 0
+    Position: {x: -9.95, y: 0.56, z: -14.43}
+  - Id: Main_7f54d9aa-f0a2-4581-baa9-79b0fa7e33f6
+    MonsterTypeId: 0
+    Position: {x: -4.8600006, y: 0.56, z: -14.63}
+  - Id: SpawnMarker_6134952b-7547-4ea7-9ec3-327d010bbcb2
+    MonsterTypeId: 0
+    Position: {x: 12.77, y: 0.56, z: -15.62}
