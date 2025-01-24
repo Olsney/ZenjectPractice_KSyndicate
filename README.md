@@ -1,2 +1,2 @@
-# ZenjectPractice_KSyndicate
- Zenject practice in K-Syndicate Architecture course
+# Zenject practice in K-Syndicate Architecture course 
+# **M. Kastorsky - Apprentices, XVI Group**
